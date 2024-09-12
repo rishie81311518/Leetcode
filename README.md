@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishie81311518/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
+## Simulation
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
