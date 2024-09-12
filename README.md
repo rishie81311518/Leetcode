@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishie81311518/Leetcode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/rishie81311518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/rishie81311518/Leetcode/tree/master/0283-move-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rishie81311518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
