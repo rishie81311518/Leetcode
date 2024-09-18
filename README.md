@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishie81311518/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishie81311518/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/rishie81311518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishie81311518/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/rishie81311518/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishie81311518/Leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/rishie81311518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [3396-valid-word](https://github.com/rishie81311518/Leetcode/tree/master/3396-valid-word) |
 | [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Simulation
