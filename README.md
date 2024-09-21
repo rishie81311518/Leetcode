@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rishie81311518/Leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishie81311518/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/rishie81311518/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishie81311518/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rishie81311518/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
