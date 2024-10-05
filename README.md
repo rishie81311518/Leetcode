@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishie81311518/Leetcode/tree/master/0067-add-binary) |
+| [0223-rectangle-area](https://github.com/rishie81311518/Leetcode/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishie81311518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishie81311518/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/rishie81311518/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
