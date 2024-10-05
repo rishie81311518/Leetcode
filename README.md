@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishie81311518/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishie81311518/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/rishie81311518/Leetcode/tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/rishie81311518/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishie81311518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishie81311518/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rishie81311518/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rishie81311518/Leetcode/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/rishie81311518/Leetcode/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
