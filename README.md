@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishie81311518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishie81311518/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
+| [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [3396-valid-word](https://github.com/rishie81311518/Leetcode/tree/master/3396-valid-word) |
 | [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Simulation
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishie81311518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
