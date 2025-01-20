@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishie81311518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishie81311518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/rishie81311518/Leetcode/tree/master/0290-word-pattern) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishie81311518/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/rishie81311518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rishie81311518/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rishie81311518/Leetcode/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishie81311518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
