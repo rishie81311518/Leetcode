@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/rishie81311518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishie81311518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3379-score-of-a-string](https://github.com/rishie81311518/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/rishie81311518/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/rishie81311518/Leetcode/tree/master/3447-clear-digits) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishie81311518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishie81311518/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3567-convert-date-to-binary](https://github.com/rishie81311518/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishie81311518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rishie81311518/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
