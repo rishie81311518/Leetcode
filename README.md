@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rishie81311518/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rishie81311518/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/rishie81311518/Leetcode/tree/master/0409-longest-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rishie81311518/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
