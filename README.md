@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rishie81311518/Leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/rishie81311518/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/rishie81311518/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/rishie81311518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/rishie81311518/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishie81311518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rishie81311518/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/rishie81311518/Leetcode/tree/master/0812-rotate-string) |
 ## Greedy
 |  |
 | ------- |
