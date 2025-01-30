@@ -6,6 +6,6 @@ public:
         }
         
         string doubled = s + s;
-        return doubled.find(goal) != string::npos;
+        return doubled.find(goal) != -1;
     }
 };
