@@ -1,7 +1,7 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-       if(needle.empty()){
+      if(needle.empty()){
         return 0;
        }
 
