@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishie81311518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishie81311518/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/rishie81311518/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/rishie81311518/Leetcode/tree/master/0889-buddy-strings) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishie81311518/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Union Find
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishie81311518/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/rishie81311518/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/rishie81311518/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/rishie81311518/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/rishie81311518/Leetcode/tree/master/3396-valid-word) |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rishie81311518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
