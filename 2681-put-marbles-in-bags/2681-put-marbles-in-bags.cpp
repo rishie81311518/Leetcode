@@ -1,36 +1,28 @@
-#include <queue>
+#include <vector>
+#include <algorithm>
 
 class Solution {
 public:
-    long long putMarbles(std::vector<int>& weights, int k) {
+    long long putMarbles(vector<int>& weights, int k) {
         int n = weights.size();
-        if (k == 1) return 0;
+        if ( k == 1) return 0;
 
-        std::priority_queue<int> maxHeap; 
-        std::priority_queue<int, std::vector<int>, std::greater<int>> minHeap; // Min heap for the smallest (k-1) elements
+        vector<int>pairSums;
 
-        for (int i = 0; i < n - 1; i++) {
-            int sum = weights[i] + weights[i + 1];
-
-            minHeap.push(sum);
-            if (minHeap.size() > k - 1) minHeap.pop(); // Keep only (k-1) smallest elements
-
-            maxHeap.push(sum);
-            if (maxHeap.size() > k - 1) maxHeap.pop(); // Keep only (k-1) largest elements
+        for(int i = 0; i < n-1; i++){
+            pairSums.push_back(weights[i] + weights[i+1]);
         }
+
+        sort(pairSums.begin(), pairSums.end());
 
         long long minScore = 0, maxScore = 0;
 
-        while (!minHeap.empty()) {
-            minScore += minHeap.top();
-            minHeap.pop();
+        for(int i = 0; i < k-1; i++){
+            minScore += pairSums[i];
+            maxScore += pairSums[n-2-i];
         }
 
-        while (!maxHeap.empty()) {
-            maxScore += maxHeap.top();
-            maxHeap.pop();
-        }
+        return maxScore - minScore;
 
-        return minScore - maxScore;
     }
 };
