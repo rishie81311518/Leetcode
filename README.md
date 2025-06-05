@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishie81311518/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/rishie81311518/Leetcode/tree/master/2050-count-good-numbers) |
 | [3567-convert-date-to-binary](https://github.com/rishie81311518/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/rishie81311518/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/rishie81311518/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
