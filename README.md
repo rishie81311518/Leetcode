@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rishie81311518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/rishie81311518/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishie81311518/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/rishie81311518/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishie81311518/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/rishie81311518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rishie81311518/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rishie81311518/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishie81311518/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/rishie81311518/Leetcode/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Memoization
 |  |
