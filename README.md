@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/rishie81311518/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/rishie81311518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishie81311518/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0816-design-hashset](https://github.com/rishie81311518/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rishie81311518/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/rishie81311518/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rishie81311518/Leetcode/tree/master/0817-design-hashmap) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishie81311518/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
