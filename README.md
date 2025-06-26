@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rishie81311518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rishie81311518/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rishie81311518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/rishie81311518/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/rishie81311518/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/rishie81311518/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rishie81311518/Leetcode/tree/master/0817-design-hashmap) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishie81311518/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rishie81311518/Leetcode/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/rishie81311518/Leetcode/tree/master/0735-asteroid-collision) |
 | [3447-clear-digits](https://github.com/rishie81311518/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rishie81311518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rishie81311518/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/rishie81311518/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/rishie81311518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/rishie81311518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
