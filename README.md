@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/rishie81311518/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/rishie81311518/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/rishie81311518/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rishie81311518/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -309,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
