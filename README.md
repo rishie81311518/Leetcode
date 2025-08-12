@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/rishie81311518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/rishie81311518/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rishie81311518/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Linked List
 |  |
 | ------- |
