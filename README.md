@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/rishie81311518/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rishie81311518/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rishie81311518/Leetcode/tree/master/0415-add-strings) |
 | [0866-rectangle-overlap](https://github.com/rishie81311518/Leetcode/tree/master/0866-rectangle-overlap) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/rishie81311518/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rishie81311518/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/rishie81311518/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/rishie81311518/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
