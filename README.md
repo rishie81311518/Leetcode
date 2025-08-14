@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/rishie81311518/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/rishie81311518/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/rishie81311518/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/rishie81311518/Leetcode/tree/master/3396-valid-word) |
