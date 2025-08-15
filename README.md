@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rishie81311518/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/rishie81311518/Leetcode/tree/master/0342-power-of-four) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rishie81311518/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rishie81311518/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/rishie81311518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rishie81311518/Leetcode/tree/master/0415-add-strings) |
 | [0866-rectangle-overlap](https://github.com/rishie81311518/Leetcode/tree/master/0866-rectangle-overlap) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rishie81311518/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rishie81311518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rishie81311518/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rishie81311518/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rishie81311518/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/rishie81311518/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
