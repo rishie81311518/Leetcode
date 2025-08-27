@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3429-special-array-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rishie81311518/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishie81311518/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/rishie81311518/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3398-make-a-square-with-the-same-color](https://github.com/rishie81311518/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rishie81311518/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishie81311518/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Enumeration
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishie81311518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rishie81311518/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishie81311518/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rishie81311518/Leetcode/tree/master/1013-fibonacci-number) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishie81311518/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Design
 |  |
 | ------- |
