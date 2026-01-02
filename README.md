@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/rishie81311518/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rishie81311518/Leetcode/tree/master/0817-design-hashmap) |
 | [0943-sum-of-subarray-minimums](https://github.com/rishie81311518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rishie81311518/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/rishie81311518/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/rishie81311518/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/rishie81311518/Leetcode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/rishie81311518/Leetcode/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/rishie81311518/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rishie81311518/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/rishie81311518/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishie81311518/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
