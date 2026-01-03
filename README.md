@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/rishie81311518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/rishie81311518/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rishie81311518/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishie81311518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rishie81311518/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishie81311518/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
