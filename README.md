@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3398-make-a-square-with-the-same-color](https://github.com/rishie81311518/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3429-special-array-i) |
+| [3453-separate-squares-i](https://github.com/rishie81311518/Leetcode/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rishie81311518/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3533-snake-in-matrix](https://github.com/rishie81311518/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishie81311518/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishie81311518/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/rishie81311518/Leetcode/tree/master/0792-binary-search) |
+| [3453-separate-squares-i](https://github.com/rishie81311518/Leetcode/tree/master/3453-separate-squares-i) |
 ## Sorting
 |  |
 | ------- |
