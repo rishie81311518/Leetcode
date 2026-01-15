@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/rishie81311518/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/rishie81311518/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishie81311518/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishie81311518/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/rishie81311518/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2681-put-marbles-in-bags](https://github.com/rishie81311518/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2887-sort-vowels-in-a-string](https://github.com/rishie81311518/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishie81311518/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rishie81311518/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
