@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rishie81311518/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2681-put-marbles-in-bags](https://github.com/rishie81311518/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishie81311518/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/rishie81311518/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishie81311518/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/rishie81311518/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishie81311518/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/rishie81311518/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishie81311518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Union Find
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/rishie81311518/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/rishie81311518/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3398-make-a-square-with-the-same-color](https://github.com/rishie81311518/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rishie81311518/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Dynamic Programming
