@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/rishie81311518/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rishie81311518/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/rishie81311518/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rishie81311518/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishie81311518/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3324-split-the-array](https://github.com/rishie81311518/Leetcode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/rishie81311518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/rishie81311518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rishie81311518/Leetcode/tree/master/2050-count-good-numbers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rishie81311518/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3567-convert-date-to-binary](https://github.com/rishie81311518/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/rishie81311518/Leetcode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/rishie81311518/Leetcode/tree/master/0866-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishie81311518/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rishie81311518/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Tree
 |  |
 | ------- |
