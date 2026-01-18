@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishie81311518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/rishie81311518/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/rishie81311518/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1895-largest-magic-square](https://github.com/rishie81311518/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/rishie81311518/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/rishie81311518/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/rishie81311518/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rishie81311518/Leetcode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/rishie81311518/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/rishie81311518/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1895-largest-magic-square](https://github.com/rishie81311518/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/rishie81311518/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3398-make-a-square-with-the-same-color](https://github.com/rishie81311518/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rishie81311518/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishie81311518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-largest-magic-square](https://github.com/rishie81311518/Leetcode/tree/master/1895-largest-magic-square) |
 ## String Matching
 |  |
 | ------- |
