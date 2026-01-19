@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/rishie81311518/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishie81311518/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishie81311518/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/rishie81311518/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1390-four-divisors](https://github.com/rishie81311518/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishie81311518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishie81311518/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/rishie81311518/Leetcode/tree/master/0792-binary-search) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishie81311518/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/rishie81311518/Leetcode/tree/master/3453-separate-squares-i) |
 ## Sorting
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rishie81311518/Leetcode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/rishie81311518/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/rishie81311518/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishie81311518/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/rishie81311518/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/rishie81311518/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3398-make-a-square-with-the-same-color](https://github.com/rishie81311518/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishie81311518/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishie81311518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-largest-magic-square](https://github.com/rishie81311518/Leetcode/tree/master/1895-largest-magic-square) |
 ## String Matching
