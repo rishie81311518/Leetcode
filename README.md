@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rishie81311518/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/rishie81311518/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1200-minimum-absolute-difference](https://github.com/rishie81311518/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rishie81311518/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishie81311518/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/rishie81311518/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rishie81311518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/rishie81311518/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1200-minimum-absolute-difference](https://github.com/rishie81311518/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1970-sorting-the-sentence](https://github.com/rishie81311518/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishie81311518/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2681-put-marbles-in-bags](https://github.com/rishie81311518/Leetcode/tree/master/2681-put-marbles-in-bags) |
