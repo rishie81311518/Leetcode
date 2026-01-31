@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rishie81311518/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rishie81311518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/rishie81311518/Leetcode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rishie81311518/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rishie81311518/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/rishie81311518/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rishie81311518/Leetcode/tree/master/0817-design-hashmap) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishie81311518/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rishie81311518/Leetcode/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rishie81311518/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rishie81311518/Leetcode/tree/master/0792-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rishie81311518/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/rishie81311518/Leetcode/tree/master/3453-separate-squares-i) |
