@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/rishie81311518/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rishie81311518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rishie81311518/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rishie81311518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/rishie81311518/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishie81311518/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/rishie81311518/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rishie81311518/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishie81311518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rishie81311518/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rishie81311518/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rishie81311518/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/rishie81311518/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/rishie81311518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rishie81311518/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/rishie81311518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rishie81311518/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rishie81311518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/rishie81311518/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/rishie81311518/Leetcode/tree/master/3447-clear-digits) |
